@@ -1,0 +1,10 @@
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Middleware/Session.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Middleware/Session/Cookie.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/State.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/State/Cookie.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/Store.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/Store/Cache.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/Store/DBI.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/Store/File.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Session/Store/Null.pm

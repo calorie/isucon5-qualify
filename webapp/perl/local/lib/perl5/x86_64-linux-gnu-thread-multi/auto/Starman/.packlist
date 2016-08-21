@@ -1,0 +1,5 @@
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/bin/starman
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/HTTP/Server/PSGI/Net/Server/PreFork.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Plack/Handler/Starman.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Starman.pm
+/home/yu.shigetani/isucon5-qualify/webapp/perl/local/lib/perl5/Starman/Server.pm
